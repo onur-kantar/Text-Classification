@@ -1,2 +1,2 @@
 # Text-Classification
-Text Classification With Word2Vec and GloVe
+Text Classification With Word2Vec and GloVe (TÜRKÇE)
